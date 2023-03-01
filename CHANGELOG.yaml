@@ -1,3 +1,10 @@
+unreleased:
+  fixed bugs:
+    - Fixed memory leak due to console listeners
+  chores:
+    - Removed `serializeLogs` option
+    - Updated dependencies
+
 4.2.3:
   date: 2023-02-22
   fixed bugs:
